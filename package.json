@@ -1,5 +1,5 @@
 {
-  "name": "instafill",
+  "name": "instafill-ai",
   "version": "0.3.0",
   "description": "AI Form Filler - Fill out PDF forms with Instafill.ai",
   "main": "src/index.js",
