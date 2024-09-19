@@ -1,0 +1,17 @@
+{
+  "name": "instafill",
+  "version": "0.3.0",
+  "description": "AI Form Filler - Fill out PDF forms with Instafill.ai",
+  "main": "src/index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "instafill": "^0.1.0"
+  },
+  "keywords": [],
+  "author": "Vlad <vlad@tarta.ai>",
+  "license": "ISC"
+}
